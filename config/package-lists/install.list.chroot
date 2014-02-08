@@ -1,0 +1,9 @@
+debian-installer-launcher
+xinit i3
+wicd
+thunar
+iceweasel xul-ext-adblock-plus
+rxvt-unicode-256color emacs vim vlc cmus speedcrunch
+gparted arandr
+bash-completion
+xsel zenity imagemagick
