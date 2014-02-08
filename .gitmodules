@@ -1,0 +1,3 @@
+[submodule "config/includes.chroot/etc/skel"]
+	path = config/includes.chroot/etc/skel
+	url = https://github.com/Alex-Daniel/efficiency-configs.git
